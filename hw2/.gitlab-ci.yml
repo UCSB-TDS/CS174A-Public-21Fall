@@ -1,0 +1,5 @@
+submission_test:
+  script:
+  - python3 -B /cse/courses/cse344/20sp/CI/hw2//hw2.py
+  tags:
+  - new-shell
