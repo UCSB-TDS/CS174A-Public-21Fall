@@ -12,7 +12,7 @@
 **Questions:** Make sure your post them on Piazza.
 
 **What to turn in:**
-Gradescope do not take sql file, so after writing and testing your code in sql file. You can add the screenshot or 
+Gradescope do not take sql file, so after writing and testing your code in sql file. You can add the screenshot images or 
 simply add the queries in the pdf file. Or, convert the sql files to pdf file before submitting in the gradescope.
 `create-tables.sql`--> `create-tables.pdf`(Create Tables + Load Data files To Tables) 
 and `q1.sql`-->`q1.pdf`, `q2.sql`-->`q2.pdf`, etc (see below).
@@ -217,7 +217,7 @@ If we release major changes to the homework, we will announce it on Piazza. Then
 ## Submission Instructions
 A GradeScope invitation has been sent to your Umail address. If not, you can join the CMPSC 174A GradeScope manually by using the Course Entry Code: **ERPGBG** (Please ONLY use your umail address). GradeScope should ask you for the Course Entry Code when you sign up. If you already have a GradeScope account, you can click on `Enroll In Course` (bottom right) on your GradeScope Dashboard page. 
 
-Answer each of the queries above and put your SQL query in a separate file. And convert them to pdf file for uploading.
+Answer each of the queries above and put your SQL query in a separate file (in case you are submitting image file). Or convert them to a pdf file for uploading. 
 Then you can upload your files to GradeScope CMPSC174A - HW2. 
  
 You may submit your code files multiple times; we will use the last version you upload . We do give partial credit on assignments, so it's a good idea to upload your files when you've finished some of your queries, in case you don't get to the rest!
