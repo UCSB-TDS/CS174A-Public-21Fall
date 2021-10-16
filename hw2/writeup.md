@@ -101,7 +101,8 @@ See examples of `.import` statements in the section notes, and also look at the 
 documentation or sqlite3's help online for details.
 
 Put all the code for this part (four `create table` statements and four `.import` statements) 
-into a file called `create-tables.sql` inside the `hw2/submission` directory.
+into the first sql file (`q1.sql`) in the comment section. And for importing you can use the path as
+`\relatibe_path_of_your_machine\table_name`. 
 
 
 ### Writing SQL QUERIES (80 points, 10 points each)
