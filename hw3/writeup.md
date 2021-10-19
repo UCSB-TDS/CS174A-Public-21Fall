@@ -8,7 +8,7 @@ Part 1: "pen and paper"; Part 2: Soufflé
 
 **Assigned date:** Thursday, October 21, 2021
 
-**Due date:** Thursday, October 28, 2021, 11:59 PM Pacific Time. You have 1 week for this assignment. Your solutions/files should be uploaded directly to the GradeScope HW3. submission page.
+**Due date:** Thursday, October 28, 2021, 11:00 PM Pacific Time. You have 1 week for this assignment. Your solutions/files should be uploaded directly to the GradeScope HW3. submission page.
 
 **What to turn in:** `hw3-q1.txt`, `hw3-q2.txt`, and `hw3.dl` (see below).
 
