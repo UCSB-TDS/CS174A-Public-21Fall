@@ -1,6 +1,6 @@
 /************ data model **************/
-.symbol_type PersonType
-.symbol_type DescriptionType
+.type PersonType <: symbol
+.type DescriptionType <: symbol
 
 .decl person(name:PersonType, description:DescriptionType)
 .input person(filename="DATA/person.facts")
