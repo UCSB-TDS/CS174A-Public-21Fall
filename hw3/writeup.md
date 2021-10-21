@@ -81,8 +81,8 @@ In this homework, you will analyze a database of 800 individuals, compute severa
 
 2. Verify Soufflé is working:
     ```
-    $ cd hw4/starter-code
-    $ souffle hw4.dl
+    $ cd hw3/starter-code
+    $ souffle hw3.dl
     ```
   
     Congratulations! You just ran your first Datalog query.
