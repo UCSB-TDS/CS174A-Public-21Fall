@@ -3,7 +3,7 @@
 .type DescriptionType <: symbol
 
 .decl person(name:PersonType, description:DescriptionType)
-.input person(filename="DATA/person.facts")
+.input person(filename="data/person.facts")
 
 .decl female(name:PersonType)
 .input female(filename="DATA/female.facts")
