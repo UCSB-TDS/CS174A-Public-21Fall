@@ -20,7 +20,7 @@
 /************* problem 0 **************/
 /**** Find all children of Priscilla ****/
 .decl p0(x:PersonType, d:DescriptionType)
-.output p0(filename="hw4-0.ans")
+.output p0(filename="hw3-0.ans")
 
 // NOTE: if you want to redirect the output to console
 // you can use the syntax:
@@ -33,29 +33,29 @@ p0(x,d) :- parent_child("Priscilla",x), person(x,d).
 /************* problem 1 **************/
 .decl p1(x:PersonType,d:DescriptionType)
 
-.output p1(filename="hw4-1.ans")
+.output p1(filename="hw3-1.ans")
 .output p1(IO=stdout)
 
 /************* problem 2 **************/
 .decl p2(x:PersonType, d:DescriptionType, m:number)
 
-.output p2(filename="hw4-2.ans")
+.output p2(filename="hw3-2.ans")
 .output p2(IO=stdout)
 
 /************* problem 3 **************/
 .decl p3(x:PersonType, m1:number, m2:number)
 
-.output p3(filename="hw4-3.ans")
+.output p3(filename="hw3-3.ans")
 .output p3(IO=stdout)
 
 /************* problem 4 **************/
 .decl p4(x:PersonType)
 
-.output p4(filename="hw4-4.ans")
+.output p4(filename="hw3-4.ans")
 .output p4(IO=stdout)
 
 /************* problem 5 **************/
 .decl p5(x:PersonType)
 
-.output p5(filename="hw4-5.ans")
+.output p5(filename="hw3-5.ans")
 .output p5(IO=stdout)
