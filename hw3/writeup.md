@@ -35,7 +35,7 @@ Part 1: "pen and paper"; Part 2: Soufflé
  
  <img src="figs/ra.jpg" width="500"/>
  
- Save your answer in `hw4-q1.txt`. *Remember to follow the same style guide for writing SQL as in HW1 and HW32! (we reserve the right to take off points even if your query returns the correct results)*
+ Save your answer in `hw3-q1.txt`. *Remember to follow the same style guide for writing SQL as in HW1 and HW2! (we reserve the right to take off points even if your query returns the correct results)*
 
 
 2. (10 points) Write a relational algebra plan for the following SQL query:
