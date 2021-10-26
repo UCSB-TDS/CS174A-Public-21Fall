@@ -116,7 +116,7 @@ For example, suppose the question were: find all children of Priscilla; return t
 
 ```c
 .output p0(IO=stdout)                   // print to terminal
-.output p0(filename="hw4-0.ans")        // also output to a file
+.output p0(filename="hw3-0.ans")        // also output to a file
 p0(x,d) :- parent_child("Priscilla",x), person(x,d).  // NOTE the period at the end 
 ```
 
