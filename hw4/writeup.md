@@ -109,11 +109,11 @@ Report percentages as percentages not decimals (e.g., report 75.25 rather than 0
 
     ![](Slide1.jpg)
 
-    *License plate* can have both letters and numbers;
-    *driverID* and *Social Security* contain only numbers;
-    *maxLiability* is a real number;
-    *year*, *phone*, *capacity* are integers;
-    everything else are strings.
+    	- 'License plate' can have both letters and numbers;
+    	- 'driverID' and 'Social Security' contain only numbers;
+    	- 'maxLiability' is a real number;
+    	- 'year', 'phone', 'capacity' are integers;
+    	- Everything else are strings.
 
     - (10 points) Translate the diagram above by writing the SQL `CREATE TABLE` statements to represent this E/R diagram. Include all key constraints; you should specify both primary and foreign keys. Make sure that your statements are syntactically correct (you might want to check them using sqlite / Azure for instance).
     - (5 points) Which relation in your relational schema represents the relationship "insures" in the E/R diagram and why is that your representation?
