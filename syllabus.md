@@ -22,24 +22,24 @@ Oct 26 (HSSB 1174): NoSQL and JSON (None)
 
 Oct 28 (HSSB 1174): NoSQL and JSON (None), HW3 Due
 
-Nov 2 (HSSB 1174):  Database Design 
+Nov 2 (HSSB 1174):  Database Design I
 
-Nov 4 (HSSB 1174): Database Design, HW4 Out
+Nov 4 (HSSB 1174): Database Design II, HW4 Out
 
-Nov 9 (HSSB 1174):  Storage & Index (Chapter 8.3 - 8.4 & 14.1)
+Nov 9 (HSSB 1174): Database Design III
 
 Nov 11 : Veterdan Day, NO CLASS
 
-Nov 16 (HSSB 1174): From RA to Query Evaluation (Chapter 5.2 & 16.3) 
+Nov 16 (HSSB 1174): Storage & Index (Chapter 8.3 - 8.4 & 14.1)
 
-Nov 18 (HSSB 1174):  Transactions I, HW4 Due, HW5 Out
+Nov 18 (HSSB 1174): From RA to Query Evaluation (Chapter 5.2 & 16.3), HW4 Due, 
 
-Nov 23 (HSSB 1174): Transactions II 
+Nov 23 (HSSB 1174):  Transactions I, HW5 Out
 
 Nov 25: Thanksgiving, NO CLASS 
 
-Nov 30 (HSSB 1174): Transactions III
+Nov 30 (HSSB 1174): Transactions II
 
-Dec 2 (HSSB 1174): Parallel and Distributed Database Systems, HW5 Due
+Dec 2 (HSSB 1174): Transactions III, HW5 Due
 
 Dec 7 (online):  Final Exam
