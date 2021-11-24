@@ -8,11 +8,11 @@ To learn how to use SQLite from within python.
 * [SQLite](https://www.sqlite.org/index.html) through [Python apsw library](https://rogerbinns.github.io/apsw/index.html)
 * starter code files
 
-Instructions assume you are on the Linux or MacOS platform. If you are in Windows, please use WSL (Windows Subsystem for Linux).
+If you are in Windows, please use WSL (Windows Subsystem for Linux).
 
 **Assigned date:** Nov 23, 2021
 
-**Due date:** Monday, Nov 6, 2021, at 11pm PDT. Turn in your solution to GradeScope
+**Due date:** Monday, Nov 5, 2021, at 11pm PDT. Turn in your solution to GradeScope
 
 
 
